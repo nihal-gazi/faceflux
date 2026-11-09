@@ -24,13 +24,13 @@
 
 ## 🎬 Example in Action
 
-FaceFlux morphs any target face in a video towards a reference face in seconds. Here is a live showcase with the bundled examples:
+FaceFlux morphs any target face in a video towards a reference face in seconds. Here is a live showcase. Note, that this is realtime, and executed on a CPU:
 
 <div align="center">
 
-| 🎬 Target Video (`examples/input.mp4`) | 👤 Source Reference (`examples/reference.jpg`) | 🚀 Morphed Output (`examples/output.mp4`) |
+| 🎬 Target Video | 👤 Source Reference | 🚀 Morphed Output |
 | :---: | :---: | :---: |
-| <video src="examples/input.mp4" controls autoplay loop muted playsinline width="290" style="max-height: 200px; border-radius: 8px; vertical-align: middle;"></video><br><sub>[▶️ Open input.mp4](examples/input.mp4)</sub> | <img src="examples/reference.jpg" width="140" alt="Reference Face" style="max-height: 180px; border-radius: 8px; object-fit: cover; vertical-align: middle;" /><br><sub>[🖼️ Open reference.jpg](examples/reference.jpg)</sub> | <video src="examples/output.mp4" controls autoplay loop muted playsinline width="290" style="max-height: 200px; border-radius: 8px; vertical-align: middle;"></video><br><sub>[▶️ Open output.mp4](examples/output.mp4)</sub> |
+| <img src="assets/input.gif" width="230" alt="Target Video" style="border-radius: 8px; vertical-align: middle;" /><br><sub>[▶️ HD MP4 (`examples/input.mp4`)](examples/input.mp4)</sub> | <img src="examples/reference.jpg" width="150" alt="Reference Face" style="max-height: 200px; border-radius: 8px; object-fit: cover; vertical-align: middle;" /><br><sub>[🖼️ HD Photo (`examples/reference.jpg`)](examples/reference.jpg)</sub> | <img src="assets/output.gif" width="230" alt="Morphed Output" style="border-radius: 8px; vertical-align: middle;" /><br><sub>[▶️ HD MP4 (`examples/output.mp4`)](examples/output.mp4)</sub> |
 
 </div>
 
