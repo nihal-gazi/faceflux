@@ -1,0 +1,5 @@
+gradio
+opencv-python
+numpy
+mediapipe>=0.10.0
+protobuf>=3.20.3,<4.26.0
